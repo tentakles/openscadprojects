@@ -1,0 +1,24 @@
+*- 1 cm bredd på mittskåran
+*en fudgefactor bredare
+*kub i mitten
+*skär av sidorna av fästet de gör INGET
+*lägre höjd nuvarande + 1cm (1 fudgefakotr?
+*crackpipan är alldels för hög :( 3mm ska den vara eller kanske 2.5?
+*printa ny gait trustor
+*högre upplösning  på cylindern
+*passa in motorn
+*ändra storlek på cylindern efter att motorn är inpassas
+*öka på lite på storlekeb
+*printa basplatta med fäste
+
+*printa den nya versionen av basplattan
+*montera den nya versionen
+*köpa en mini arduino
+göra en skiss på hur motor två ska fungera
+köpa fler servos färdigmoddade?!
+göra fästet för den andra motorn
+göra kugghjulskrans och servomotor-fäste med det fyrkantiga servohornet
+göra sfären
+
+
+
